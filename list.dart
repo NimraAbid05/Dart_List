@@ -1,7 +1,7 @@
 void main() {
   List n = [1, 2, 3, 4, 5, 6, 7, 8, 9];
   //index of list=[0,1,2,3,4,5,6,7,8]
-  //index of list=[0,1,2,3,4,5,6,7,8]
+  //we find element through its index
   print(n[3]);
   //isEmpty check list is empty
   print(n.isEmpty);
